@@ -1,0 +1,5 @@
+*.pt
+*_data*
+weights*
+logs
+eval_results
